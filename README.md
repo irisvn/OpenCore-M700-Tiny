@@ -24,4 +24,4 @@ Hackintosh: BigSur for ThinkCentre M700 Tiny
 
 ![M700-BigSur-OpenCore-Sleep](https://i.imgur.com/NXyxnXj.png "M700-BigSur-OpenCore-Sleep")
 
-3- Enable HiDPI (optinal): https://github.com/xzhih/one-key-hidpi
+3- Enable HiDPI (optional): https://github.com/xzhih/one-key-hidpi
