@@ -1,3 +1,7 @@
+
+
+![M700-BigSur-OpenCore](https://github.com/irisvn/OpenCore-M700-Tiny/blob/main/2021-09-09_19-23.png "M700-BigSur-OpenCore")
+
 # OpenCore-M700-Tiny
 Hackintosh: BigSur for ThinkCentre M700 Tiny
 
@@ -15,5 +19,7 @@ Hackintosh: BigSur for ThinkCentre M700 Tiny
 * Go to "Energy Saver"
 * Turn display off after: Never
 * Config same as picture: https://i.imgur.com/NXyxnXj.png
+
+![M700-BigSur-OpenCore-Sleep](https://i.imgur.com/NXyxnXj.png "M700-BigSur-OpenCore-Sleep")
 
 3- Enable HiDPI (optinal): https://github.com/xzhih/one-key-hidpi
