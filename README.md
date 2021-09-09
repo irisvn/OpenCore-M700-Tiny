@@ -9,10 +9,11 @@ Hackintosh: BigSur for ThinkCentre M700 Tiny
 * Intel Wifi
 
 ### Working
-* Everything works just like it should be.
-* Fix sleep issue: 
-- Go to "Energy Saver"
-- Turn display off after: Never
-- Config same as picture: https://i.imgur.com/NXyxnXj.png
+1- Everything works just like it should be.
 
-* Enable HiDPI (optinal): https://github.com/xzhih/one-key-hidpi
+2-  Fix sleep issue: 
+* Go to "Energy Saver"
+* Turn display off after: Never
+* Config same as picture: https://i.imgur.com/NXyxnXj.png
+
+3- Enable HiDPI (optinal): https://github.com/xzhih/one-key-hidpi
