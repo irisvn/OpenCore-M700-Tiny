@@ -5,8 +5,7 @@
 # OpenCore-M700-Tiny
 Hackintosh: BigSur for ThinkCentre M700 Tiny
 
-#### BigThanks: https://github.com/ztbx/hackintosh-lenovo-m700
-(Bản này bị thiếu USBMap nên mình phải chỉnh lại)
+#### BigThanks: https://github.com/ztbx/hackintosh-lenovo-m700 - (Bản này bị thiếu USBMap nên mình phải chỉnh lại)
 
 ### Info M700
 * Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz
