@@ -1,6 +1,6 @@
 
 
-![M700-BigSur-OpenCore](https://github.com/irisvn/OpenCore-M700-Tiny/blob/main/2021-09-09_19-23.png "M700-BigSur-OpenCore")
+![M700-BigSur-OpenCore](https://i.imgur.com/25WzusQ.png "M700-BigSur-OpenCore")
 
 # OpenCore-M700-Tiny
 Hackintosh: BigSur for ThinkCentre M700 Tiny
