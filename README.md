@@ -12,7 +12,7 @@ Hackintosh: BigSur for ThinkCentre M700 Tiny
 * Intel Corporation HD Graphics 530 (rev 06)
 * Motherboard - Manufacturer: LENOVO
 * card 0: PCH [HDA Intel PCH], device 0: ALC233 Analog [ALC233 Analog]
-* Intel Wifi
+* Intel Wifi 8260 & DW1560 Support
 
 ### Working
 1- Everything works just like it should be.
